@@ -3,12 +3,13 @@ Designed a Launchpad that entertains the user by producing several sounds on pre
 
 <h5>Description</h5>
 This project is basically implemented using <b>HTML, CSS, JavaScript.</b>
-<ul>Within JavaScript two different libraries were used:</ul>
+
+<ul>Within JavaScript two different libraries were used:
 <li>Paper.js</li>
 <li>Howler.js</li>
-
-<b>Paper.js:</b> is used for the animation that is produced on the screen.
-<b>Howler.js</b> is used for the sound effects produced on clicking the keys.
+</ul>
+<div><b>Paper.js:</b> is used for the animation that is produced on the screen.</div>
+<div><b>Howler.js</b> is used for the sound effects produced on clicking the keys.</div>
 
 <h6>How To Open the File</h6>
 The files consists of the .html file along with other file called assets.
